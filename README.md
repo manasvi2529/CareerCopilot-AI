@@ -76,12 +76,18 @@ CareerCopilot-AI
 
 Target Role: Data Scientist
 
-Readiness Score: 40%
+Career Readiness Score: 40%
 
 Missing Skills:
-- SQL
-- Statistics
-- Data Visualization
+• SQL
+• Statistics
+• Data Visualization
+
+Recommended Learning Path:
+1. SQL Fundamentals
+2. Exploratory Data Analysis
+3. Power BI Dashboarding
+4. Machine Learning Basics
 
 ## Future Enhancements
 
