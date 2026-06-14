@@ -1,5 +1,8 @@
 # CareerCopilot AI
 
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 ## Personalized Career Intelligence & Skill Gap Analysis Platform
 
 CareerCopilot AI analyzes real-world job market data to help students identify skill gaps, evaluate career readiness, and generate personalized learning roadmaps.
