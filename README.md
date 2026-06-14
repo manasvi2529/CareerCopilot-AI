@@ -44,7 +44,6 @@ CareerCopilot-AI
 │   ├── job_skills.csv
 │   ├── top_skills.csv
 │   ├── top_locations.csv
-│   └── job_summary.csv
 ├── notebooks/
 │   └── careercopilot.ipynb
 ├── screenshots/
